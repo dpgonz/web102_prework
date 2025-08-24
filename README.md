@@ -21,9 +21,9 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Video Walkthrough is in the files. 
 
-<video src="video-walkthrough.mp4" controls title="Video Walkthrough"></video>
+<img src="video-walkthrough.gif" controls title="Video Walkthrough"></img>
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Kap
