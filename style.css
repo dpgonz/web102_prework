@@ -20,7 +20,14 @@ body {
 }
 
 .stats-container {
-    display: flex;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: none;                 
+}
+
+.stats-container:hover {
+  box-shadow: 0 0 30px lightblue; 
 }
 
 .stats-card {
@@ -72,4 +79,14 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+
+    transition: transform 150ms ease; 
+    transform: translateZ(0);  
+    cursor: pointer;
+
+}
+
+button:hover {
+    transform: scale(1.04); 
+    cursor: pointer;
 }
