@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Video Walkthrough is in the files. 
 
-<img src="video-walkthrough.gif" controls title="Video Walkthrough"></img>
+<video src="video-walkthrough.mp4" controls title="Video Walkthrough"></video>
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with Kap
